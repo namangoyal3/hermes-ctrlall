@@ -4,12 +4,12 @@ manifest_version: 2
 api_version: 1
 description: >-
   Drive ctrl+all on your Mac from Hermes: launch and steer multiplayer coding-agent
-  chats (Claude Code, Gemini, opencode and more), read transcripts and the team inbox,
+  chats (Claude Code, Gemini, opencode), read transcripts and the team inbox,
   review git status and diffs, through the ctrl+all daemon's authenticated loopback RPC.
 author: Naman Goyal
 license: MIT
 homepage: https://github.com/namangoyal3/hermes-ctrlall
-tags: [multiplayer, coding-agents, ctrlall, mac, claude-code, codex]
+tags: [multiplayer, coding-agents, ctrlall, mac, claude-code, gemini, opencode]
 requires_hermes: ">=0.21.5"
 provides_tools:
   - ctrlall_ping
