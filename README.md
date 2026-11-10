@@ -12,6 +12,15 @@ loopback RPC (`POST /rpc` with a bearer token, documented in
 gate - plan / ask / auto-edit / full-auto modes, engine boundaries, project
 fencing - so a Hermes turn can only do what a local caller on the Mac could do.
 
+
+## Demo
+
+https://github.com/namangoyal3/hermes-ctrlall/assets/ctrlall-hermes-demo.mp4
+
+<video src="https://github.com/namangoyal3/hermes-ctrlall/raw/main/1-ctrlall-hermes-demo-v2.mp4" controls muted playsinline width="720"></video>
+
+[Direct video link](https://github.com/namangoyal3/hermes-ctrlall/blob/main/1-ctrlall-hermes-demo-v2.mp4) (recorded against the bundled mock daemon; the same calls run against a live ctrl+all daemon).
+
 ## Tools
 
 | Tool | ctrl+all op | What it does |
