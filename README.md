@@ -15,9 +15,9 @@ fencing - so a Hermes turn can only do what a local caller on the Mac could do.
 
 ## Demo
 
-<video src="https://github.com/namangoyal3/hermes-ctrlall/raw/main/1-ctrlall-hermes-demo-v2.mp4" controls muted playsinline width="720"></video>
+<video src="https://github.com/namangoyal3/hermes-ctrlall/raw/main/2-ctrlall-hermes-demo-v3.mp4" controls muted playsinline width="720"></video>
 
-[Direct video link](https://github.com/namangoyal3/hermes-ctrlall/blob/main/1-ctrlall-hermes-demo-v2.mp4) (recorded against the bundled mock daemon; the same calls run against a live ctrl+all daemon).
+[Direct video link](https://github.com/namangoyal3/hermes-ctrlall/blob/main/2-ctrlall-hermes-demo-v3.mp4) (recorded against the bundled mock daemon; the same calls run against a live ctrl+all daemon).
 
 ## Tools
 
